@@ -1,0 +1,20 @@
+Open the server
+D:\workspace\mapit\mapit-web>mvn ninja:run
+
+
+Open google chrome
+
+http://localhost:8080/#/recruiter/dashboard
+
+
+for admin
+
+http://localhost:8080/admin
+
+
+stop the server
+
+control c
+yes
+
+
